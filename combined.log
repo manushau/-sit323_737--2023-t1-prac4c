@@ -1,3 +1,0 @@
-{"level":"info","message":"New addition operation requested: 10 + 2 = 12","service":"calculate-service"}
-{"level":"error","message":"Invalid input","service":"calculate-service"}
-{"level":"info","message":"New divition operation requested: 10 / 2 = 5","service":"calculate-service"}

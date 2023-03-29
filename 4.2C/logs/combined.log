@@ -1,0 +1,3 @@
+{"level":"info","message":"New divition operation requested: 10 / 2 = 5","service":"calculator-microservice"}
+{"level":"info","message":"New divition operation requested: 10 / 2 = 5","service":"calculator-microservice"}
+{"level":"error","message":"Invalid","service":"calculator-microservice"}
