@@ -1,0 +1,4 @@
+{"level":"info","message":"Parameters 12 and 2 received for addition","service":"calculator-microservice"}
+{"level":"info","message":"New subtract operation requested: 12 - 2 = 10","service":"calculator-microservice"}
+{"level":"error","message":"n2 is incorrectly defined","service":"calculator-microservice"}
+{"level":"error","message":"n1 is incorrectly defined","service":"calculator-microservice"}
